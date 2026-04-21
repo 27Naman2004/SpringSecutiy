@@ -7,7 +7,7 @@ services:
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root123
-      MYSQL_DATABASE: testdb
+      MYSQL_DATABASE: naman
       MYSQL_USER: user
       MYSQL_PASSWORD: user123
     ports:
